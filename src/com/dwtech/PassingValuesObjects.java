@@ -1,3 +1,5 @@
+package com.dwtech;
+
 public class PassingValuesObjects {
 
     void updateValue(Student s1){

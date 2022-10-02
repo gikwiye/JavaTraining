@@ -1,3 +1,5 @@
+package com.dwtech;
+
 public class VarargsMethods {
 
     void updateProfile(int id, int...age){

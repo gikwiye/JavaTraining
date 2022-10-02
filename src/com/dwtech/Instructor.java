@@ -1,5 +1,5 @@
-import java.sql.Array;
-import java.util.ArrayList;
+package com.dwtech;
+
 import java.util.Arrays;
 
 public class Instructor {

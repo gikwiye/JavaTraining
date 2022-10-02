@@ -1,3 +1,5 @@
+package com.dwtech;
+
 public class ExchangeRate {
 
     double [] exchangeRates = {63.0,3.0,3.0};

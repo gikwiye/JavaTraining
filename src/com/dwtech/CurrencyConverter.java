@@ -1,3 +1,5 @@
+package com.dwtech;
+
 public class CurrencyConverter {
 
     int rupee = 63;
