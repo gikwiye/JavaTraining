@@ -26,6 +26,11 @@ public class Main {
         System.out.println(students[0].age);
         System.out.println(students[2].age);
 
+        String test= "Steve is a kind of Steve";
+        System.out.println(test.indexOf("Steve"));
+        System.out.println(test.substring(test.indexOf("Steve")+5+1,test.length()));
+
+
 
     }
 }
